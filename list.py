@@ -1,3 +1,5 @@
+#list is a collection of array which is changable and ordered.Duplicate entries are present
+
 fruits=[10,20,30,"apple","banana","mango"]
 #10 is of index 0
 #mango is of index 5S

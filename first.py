@@ -1,4 +1,3 @@
-
 name="srisanth"
 age=24
 a=12.23
@@ -18,6 +17,7 @@ name2='hello'
 name3=''' hello'''
 print(name1,name2,name3)
 "boolean"
+"bool should initialize with a capital word"
 a1=True
 print(a1)
 print(type(a1))

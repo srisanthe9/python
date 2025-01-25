@@ -2,4 +2,4 @@
 myset={10,20,30,'hello'}
 #print(myset[2])#error because set is unordered
 print(myset)
-print(list(range(11)))
+print(list(range(11)))#prints numbers from 0-10
