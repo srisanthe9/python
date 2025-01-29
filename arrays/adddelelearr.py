@@ -12,5 +12,5 @@ a.pop()#remove last element in array
 print(a)
 a.pop(0)#removes element of index 0
 print(a)
-a.remove(1.4)
+a.remove(1.4)#removes 1.4 from array
 print(a)
