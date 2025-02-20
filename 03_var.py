@@ -1,4 +1,5 @@
 #many values to variables
+#testing from vscode
 fruits=["apple","banana","mango"]
 x,y,z=fruits
 print(x,y,z)#comma gives space after variable printed
