@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 if 5 > 2:
     print("hello")
     print("world")
