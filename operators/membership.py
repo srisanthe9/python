@@ -8,4 +8,3 @@ print(10 in a)#prints true
 print(10 not in a)#prints false
 print(a in b)#prints false
 print([10,20,30] in a)#prints false
-print(20,10 in a)

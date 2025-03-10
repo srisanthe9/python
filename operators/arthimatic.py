@@ -2,8 +2,8 @@
 #'+','-','*','/','%','**','//'
 a=10
 b=5
-x=2
-y=2
+x=4.5
+y=1
 print(a+b)#prints 15
 print(a-b)#prints 5
 print(a*b)#prints 50
